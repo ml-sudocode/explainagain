@@ -16,7 +16,7 @@ Stay safe!
     - Part 2: [The Web3 Attack Path](https://www.youtube.com/watch?v=bPqYfda17AY)
     - Part 3: [Trusting the Hardware Wallets](https://www.youtube.com/watch?v=zi4MjfTW7GE)
     - Part 4: Tool Demos – Verifying Safe Transactions [coming soon]
-- Read on [X.com]([ ])
+- Read on [X.com](https://x.com/ml_sudo/status/1909929255309590601)
 - [Diagrams](https://www.canva.com/design/DAGkCxdZS_U/AhRbLcPvzf14u5axxayd_Q/) of attack paths
 
 ## 🧑‍💼 Guests: Aaron and Guest X
