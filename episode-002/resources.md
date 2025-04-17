@@ -15,10 +15,10 @@ Stay safe!
     - Part 1: [The Web2 Attack Path](https://www.youtube.com/watch?v=DFFrS8G2fFQ)
     - Part 2: [The Web3 Attack Path](https://www.youtube.com/watch?v=bPqYfda17AY)
     - Part 3: [Trusting the Hardware Wallets](https://www.youtube.com/watch?v=zi4MjfTW7GE)
-    - Part 4: Tool Demos – Verifying Safe Transactions [coming soon]
+    - Part 4: (Tool Demos – Verifying Safe Transactions)[https://youtu.be/Cl20M3xgym0]
     - Episode [playlist](https://www.youtube.com/watch?v=-JKdMh7wJpg&list=PLO4ZHeFtyCBw_ztatKUZRXnzS4v0UKNTP) 
 - Read on [X.com](https://x.com/ml_sudo/status/1909929255309590601)
-- [Diagrams](https://www.canva.com/design/DAGkCxdZS_U/AhRbLcPvzf14u5axxayd_Q/) of attack paths
+- [Diagrams](https://www.canva.com/design/DAGkr6kZY3Y/rUq3iMopmurlpTQ4Hxpu3Q/) of attack paths
 
 ## 🧑‍💼 Guests: Aaron and Guest X
 - Aaron is a security expert and a hardware engineer.<br>
